@@ -163,7 +163,7 @@ pip install -r requirements.txt
 - Calibration of predicted probabilities.
 - Compare against simple rule-based screening on blood pressure and blood sugar.
 
-## Author
+## Authors 
 
-Wasim Akram Janyaro | Software Engineering graduate, Mehran University of Engineering and Technology
-[waseemjanyaro@gmail.com]
+* **Wasim Akram Janyaro** – Software Engineering graduate (Mehran University of Engineering and Technology). Interested in machine learning for public health. [waseemjanyaro@gmail.com]
+* **Rizwan Rafique** – Software Engineering graduate (Mehran University of Engineering and Technology). [palijorizwanrafique746@gmail.com]
